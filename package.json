@@ -1,0 +1,21 @@
+{
+  "name": "two-js",
+  "version": "0.0.1",
+  "description": "Two.js Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "two.js": "^0.7.0-beta.3"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "license": "MIT"
+}
