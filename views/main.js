@@ -3,22 +3,22 @@ let two = new Two({
   autostart: true
 }).appendTo(document.body);
 
-let rec3 = two.makeRectangle(two.width / 2, two.height / 2, 275, 275);
+let rec3 = two.makeRectangle(two.width / 2, two.height / 2, 250, 250);
 rec3.fill = 'black';
 rec3.stroke = 'white';
 rec3.linewidth = 10;
 
-let rec2 = two.makeRectangle(two.width / 2, two.height / 2, 175, 175);
+let rec2 = two.makeRectangle(two.width / 2, two.height / 2, 150, 150);
 rec2.fill = 'black';
 rec2.stroke = 'white';
 rec2.linewidth = 10;
 
-let rec1 = two.makeRectangle(two.width / 2, two.height / 2, 100, 100);
+let rec1 = two.makeRectangle(two.width / 2, two.height / 2, 80, 80);
 rec1.fill = 'black';
 rec1.stroke = 'white';
 rec1.linewidth = 10;
 
-let rec0 = two.makeRectangle(two.width / 2, two.height / 2, 50, 50);
+let rec0 = two.makeRectangle(two.width / 2, two.height / 2, 30, 30);
 rec0.fill = 'black';
 rec0.stroke = 'white';
 rec0.linewidth = 10;
