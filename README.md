@@ -1,5 +1,4 @@
 # Monochrome Jelly
-------------
 
 Also known as a study of Two.js
 
